@@ -1,0 +1,26 @@
+[
+    {
+        "alternativas": "[{\"id\":4456449,\"texto\":\"X &gt; 3/2 \",\"alternativa\":\"A\"},{\"id\":4456450,\"texto\":\"X &lt; 2/3 \",\"alternativa\":\"B\"},{\"id\":4456451,\"texto\":\"X &gt; 2/3 \",\"alternativa\":\"C\"},{\"id\":4456452,\"texto\":\"X &gt; -3 \",\"alternativa\":\"D\"},{\"id\":4456453,\"texto\":\"X &lt; 3/2\",\"alternativa\":\"E\"}]",
+        "assuntos": "Matemática, Solução de Equações, Álgebra e equações polinominais",
+        "disciplina": "Matemática",
+        "enunciadoClean": "Para que a expressão &radic; 2x-3 seja número real deve-se ter: ",
+        "enunciadoHtml": "<p align=justify>Para que a expressão &radic; 2x-3 seja número real deve-se ter:\r\n</p>",
+        "explicação": "O estudo da álgebra permite a solução de diversas situações do cotidiano.",
+        "id": "1233658",
+        "idResposta": "4456449",
+        "nomeBanca": "Diretoria de Ensino da Marinha",
+        "siglaBanca": "DIRENS Marinha"
+    },
+    {
+        "alternativas": "[{\"id\":4574435,\"texto\":\"1.3\",\"alternativa\":\"A\"},{\"id\":4574436,\"texto\":\"2.3\",\"alternativa\":\"B\"},{\"id\":4574437,\"texto\":\"4.9\",\"alternativa\":\"C\"},{\"id\":4574438,\"texto\":\"5.9\",\"alternativa\":\"D\"},{\"id\":4574439,\"texto\":\"7.9\",\"alternativa\":\"E\"}]",
+        "assuntos": "Equação do segundo grau (quadrática), Matemática, Álgebra e equações polinominais",
+        "disciplina": "Matemática",
+        "enunciadoClean": "Se x = 3 é uma das raízes da equação &alpha;x2 - 4 = 0 , então o valor de “a” é:",
+        "enunciadoHtml": "<p align=justify>Se <i>x</i> = 3 é uma das raízes da equação &alpha;<span style=\"font-size: 13.3333px;\"><i>x</i><sup>2</sup></span> - 4 = 0 , então o valor de “a” é:</p>",
+        "explicação": "O estudo da álgebra permite a solução de diversas situações do cotidiano.",
+        "id": "1261729",
+        "idResposta": "4574437",
+        "nomeBanca": "Fundação Universidade Empresa de Tecnologia e Ciências",
+        "siglaBanca": "FUNDATEC"
+    }
+]
